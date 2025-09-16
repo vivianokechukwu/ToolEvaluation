@@ -1,20 +1,20 @@
-<h1>GRC Tool Evaluation - Financial Institution</h1>
+<h1>GRC Tool Evaluation for a Financial Institution</h1>
 
 <h2>Description</h2>
 
-I was tasked with supporting the organization in selecting Governance, Risk, and Compliance (GRC) tools that align with its global operations and complex regulatory environment. This assessment evaluated vendor capabilities againstthe firm's business model and regulatory footprint, resulting in tailored recommendations to strengthen compliance, risk management, and operational efficiency.
+I was tasked with supporting the bank in selecting GRC tools that align with its global operations and complex regulatory environment. This assessment evaluated vendor capabilities againstthe bank's business model and regulatory footprint, resulting in tailored recommendations to strengthen compliance, risk management, and operational efficiency.
 
 <h2>Evaluation Criteria</h2>
 
-- **Scalability & Flexibility:** Support for the organization's global footprint.
+- Scalability & Flexibility: Support for the organization's global footprint.
 
-- **Integration Capabilities:** Compatibility with existing core banking and risk platforms.
+- Integration Capabilities: Compatibility with existing core banking and risk platforms.
 
-- **Regulatory Intelligence:** Continuous updates for financial services compliance.
+- Regulatory Intelligence: Continuous updates for financial services compliance.
 
-- **User Experience:** Intuitive design to drive adoption across compliance teams.
+- User Experience: Intuitive design to drive adoption across compliance teams.
 
-- **Vendor Track Record:** Proven performance in global financial institutions.
+- Vendor Track Record: Proven performance in global financial institutions.
 
 <h2>Vendors Considered </h2>
 
@@ -30,17 +30,13 @@ I was tasked with supporting the organization in selecting Governance, Risk, and
 
 - **IBM OpenPages with Watson** – AI-driven analytics, advanced risk insights.
 
+I recommended MetricStream or Wolters Kluwer OneSumX as the best fit for the organization’s global scale and complex regulatory demands.
 
-<h2>Recommendations</h2>
 
-**MetricStream or Wolters Kluwer OneSumX** — best suited for the organization's global scale and complex regulatory demands.
 
-<h2>Conclusion & Impact</h2>
+<h2>Impact</h2>
 
-By aligning tool capabilities with the organization's compliance and risk objectives, I delivered recommendations that will:<br>
-- Enhance compliance posture across global operations.<br>
-- Strengthen resilience against evolving regulatory risks.<br>
-- Improve operational efficiency by integrating compliance into core banking processes.
+These recommendations enhanced the organization’s compliance posture across global operations, strengthened resilience against evolving regulatory risks, and improved operational efficiency by integrating compliance into core banking processes
 
 
 
